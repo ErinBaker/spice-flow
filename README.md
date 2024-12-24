@@ -1,7 +1,3 @@
-Below is an updated **README** reflecting the script’s new capabilities and changes:
-
----
-
 # spice-flow.sh
 
 A flexible coordinate generator that enriches geographic points with random attributes. Like the spice melange flowing through the desert planet Arrakis, this script streams forth coordinates with mystical properties.  
